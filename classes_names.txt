@@ -1,0 +1,12 @@
+mandatory
+warning
+prohibitory
+no entry
+stop
+speed limit- 30kmph
+speed limit- 50kmph
+speed limit- 60kmph
+speed limit- 70kmph
+speed limit- 80kmph
+speed limit- 100kmph
+speed limit- 120kmph

@@ -1,0 +1,5 @@
+My name is Bar Dalal and I'm 18 years old.
+I live in Rishon Lezion city and learn at Rishonim school.
+I learn Machine Learning at my school as a part of computer science subject.
+
+
